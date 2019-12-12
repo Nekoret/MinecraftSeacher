@@ -1,1 +1,3 @@
-"# MinecraftSeacher" 
+### MinecraftSeacher
+#### 某天突然想翻出一行對話，但是logs裡的檔案一大堆，要花多少時間找尋? 這個搜尋引擎可以省下你的時間！  
+#### 先輸入PATH，也就是你的 Mineacraft log 中的位置 再填入要搜尋的關鍵字，幾秒鐘內就會讀出搜尋結果！
